@@ -10,7 +10,7 @@ This is a simple and intuitive To-Do web application built using **HTML**, **CSS
 - **Local Storage:** Tasks are stored in the browser's local storage, so they remain available even after the page is refreshed.
 
 ## Demo
-You can view a video demonstration of the app [here]([https://www.linkedin.com/in/wahidanon/](https://www.linkedin.com/posts/wahidanon_webdevelopment-frontenddevelopment-javascript-activity-7237088130011459584-3Lga?utm_source=share&utm_medium=member_desktop).
+You can view a video demonstration of the app [HERE]([https://www.linkedin.com/posts/wahidanon_webdevelopment-frontenddevelopment-javascript-activity-7237088130011459584-3Lga?utm_source=share&utm_medium=member_desktop])
 
 ## Installation
 To run this project locally, follow these steps:
