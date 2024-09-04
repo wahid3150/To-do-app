@@ -24,3 +24,17 @@ To run this project locally, follow these steps:
    cd To-do-app
 3.
   Open the 'index.html' file in your preferred web browser.
+
+#Usage
+Add a task by typing into the input field and pressing the "Add" button.
+Click on a task to mark it as complete.
+Click the "Delete" button next to a task to remove it from the list.
+Your tasks will be saved in your browser's local storage, so you can come back later and see them again.
+
+#Technologies Used
+**HTML5**
+**CSS3**
+**JavaScript (ES6)**
+
+#Contributing
+Feel free to fork this repository and submit pull requests. If you encounter any issues, please open an issue on this repository.
